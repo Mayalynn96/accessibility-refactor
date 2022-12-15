@@ -10,10 +10,14 @@ N/A
 
 ## Usage
 
+go to link https://mayalynn96.github.io/accessibility-refactor/ to visit the deployed webpage.
+
+![image showing all the divs used](assets/images/Horiseon.png)
+
 Here are a few examples of the things that needed to be changed:
 
 Only non-Semantic Elements were used and needed to be replaced by Semantic Elements.
-![image showing all the divs used](assets/images/all-those-divs.PNG)
+![image showing all the divs used](assets/images/all-those-divs.png)
 
 Too many lines of repetetive code needed to be refactored.
 ![image showing some of the repetitive code used](assets/images/repetitive-code.PNG)
@@ -24,6 +28,4 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
+N/A

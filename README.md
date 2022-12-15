@@ -17,7 +17,7 @@ go to link https://mayalynn96.github.io/accessibility-refactor/ to visit the dep
 Here are a few examples of the things that needed to be changed:
 
 Only non-Semantic Elements were used and needed to be replaced by Semantic Elements.
-![image showing all the divs used](assets/images/all-those-divs.png)
+![image showing all the divs used](assets/images/all-those-divs.PNG)
 
 Too many lines of repetetive code needed to be refactored.
 ![image showing some of the repetitive code used](assets/images/repetitive-code.PNG)
